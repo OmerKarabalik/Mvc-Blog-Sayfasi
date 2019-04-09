@@ -33,7 +33,7 @@ Kontrol için butonlar konulmuştur Ana sayfa2 yapısı aşağıdadır.Kod yapı
 </p>
 Sayfa 3 yapısı tıklanarak açılmıştır<br><br>
   <img align="center" width="800" height="400" src="https://user-images.githubusercontent.com/43750173/55807865-a09d7980-5aeb-11e9-9bf5-ab5c10e77177.PNG"><br><br><br>
-<img align="center" width="500" height="300" src=https://user-images.githubusercontent.com/43750173/55807863-a004e300-5aeb-11e9-9cc2-91db3bf9f533.PNG">
+<img align="center" width="500" height="300" src=https://user-images.githubusercontent.com/43750173/55808248-67193e00-5aec-11e9-9430-e083cb2b7de6.PNG">
   <h1>BLOG SAYFAM<h1>
                                                                                                                                                       <img align="center" width="800" height="300" src="https://user-images.githubusercontent.com/43750173/55807985-dc384380-5aeb-11e9-91a1-e425c953abd0.PNG">
 
